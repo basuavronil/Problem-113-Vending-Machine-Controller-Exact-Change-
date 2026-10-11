@@ -12,3 +12,6 @@ The machine tracks balances from ₹0 (`S0`) up to ₹9 (`S9`). When the machine
 * **S9 (₹9) + ₹5 coin** = ₹14 $\rightarrow$ **Dispense** & Reset to S0
 
 *(Similarly, other states near the target—like `S8` dispensing on ₹2 or ₹5, and `S5` through `S7` dispensing on a ₹5 coin—ensure that any combination reaching or exceeding ₹10 successfully releases the item without needing an explicit S10 state.)*
+
+<img width="793" height="379" alt="image" src="https://github.com/user-attachments/assets/e860cf16-cad3-4c5c-bca8-7fd5f9f8580b" />
+
